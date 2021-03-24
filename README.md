@@ -11,8 +11,9 @@ $ pip3 install -r requirements.txt
 ```python
 $ python3 scratch.py
 ```
-## To run tesseract version (works better)
+## To run tesseract version (works better) 
 ```python
+$ sudo apt-get install tesseract-ocr
 $ python3 tess.py
 ```
 ## Details:
