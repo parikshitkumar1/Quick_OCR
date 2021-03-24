@@ -19,12 +19,15 @@ $ python3 tess.py
 #### scratch:
 
 uses the mnist dataset and a_z handwritten alphabets dataset from kaggle
+
 uses vgg16
+
 accuracy after 10 epochs ~ 98%
 
 #### tess:
 
 uses tesseract instead of training from scratch
+
 works way better
 
 
